@@ -33,5 +33,12 @@
         "image": "https://raw.githubusercontent.com/sg3606/MyPortfolio/main/Assets/Image/note.png",
         "github": "https://github.com/sg3606/note-taker",
         "deploy": "https://morning-gorge-44836.herokuapp.com/"
+    },
+    {
+        "id": 6,
+        "name": "Progressive-Budget",
+        "image": "https://raw.githubusercontent.com/sg3606/Progressive-Budget/main/public/icons/app.png",
+        "github": "https://github.com/sg3606/Progressive-Budget",
+        "deploy": "https://whispering-mountain-40567.herokuapp.com/"
     }
 ]
