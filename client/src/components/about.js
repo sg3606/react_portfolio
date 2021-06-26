@@ -4,12 +4,12 @@ function About() {
 
     return(
         <section className="container">
-            <h2 class="top-title">Shao Ge</h2>
+            <h2 class="top-title">About</h2>
             <hr></hr>
             <div>
                 <p>
                 Shao has studied in the United States since 2013. 
-                He is pursuing both Bachelors of Science in Mechanical Engineering 
+                He was pursuing both Bachelors of Science in Mechanical Engineering 
                 and Aerospace Science and Engineering at the University of California, Davis. 
                 </p>
                 <p>
@@ -21,6 +21,9 @@ function About() {
                 In his sophomore year, he decided to take Mechanical Engineering and Aerospace Science and Engineering. 
                 He has learned aircraft stability, structures, propulsion, and aerodynamics and he finished his senior project, 
                 the aircraft performance and design. 
+                </p>
+                <p>
+                He is currently studying in the University of Washington, Seattle.
                 </p>
             </div>
         </section>

@@ -16,7 +16,19 @@ nav{
   display: flex;
   flex: 0.75;
   background: #0669615d;
-  padding: 11.5px;
+  padding: 10px;
+}
+
+a {
+  text-decoration: none;
+}
+
+.navbar_0 { 
+  width:50%;
+}
+
+ul {
+  width: 100%;
 }
 
 li{
@@ -28,8 +40,23 @@ li{
   padding-top: 30px;
 }
 
-.navbar-nav {
-  display: right;
+.navbar_1 {
+  display: center;
+}
+
+
+.container {
+  border: solid;
+  border-color: white;
+  border-width: 200px;
+  border-top-width: 10px;
+  border-bottom-width: 10px;
+}
+
+h4 {
+  font-size: 30px;
+  font-family: sans-serif;
+  font-weight: bold;
 }
 
 .wrapper {

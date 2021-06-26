@@ -6,11 +6,14 @@ function Navigation(props) {
   return (
     <div>
       <Navbar>
+        <div className="navbar_0">
         <NavLink className="nav-link" to="/">
           <div class="text-light">
             <h4 class="nav-title-font">Shao Ge</h4>
           </div>
         </NavLink>
+        </div>
+        <div className="navbar_1">
         <ul class="navbar-nav">
           <li class="nav-item">
             <NavLink to="/about">
@@ -33,6 +36,7 @@ function Navigation(props) {
             </NavLink>
           </li>
         </ul>
+        </div>
       </Navbar>
     </div>
   );
