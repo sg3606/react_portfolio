@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name": "Seasons Eatings",
+        "image": "https://raw.githubusercontent.com/sg3606/MyPortfolio/main/Assets/Image/seasons.png",
+        "github": "https://github.com/sg3606/project_2",
+        "deploy": "https://quiet-lowlands-76523.herokuapp.com/"
+    },
+    {
+        "id": 2,
+        "name": "Bev-Films",
+        "image": "https://raw.githubusercontent.com/sg3606/MyPortfolio/main/Assets/Image/Function_Demo.png",
+        "github": "https://github.com/sg3606/bev-films",
+        "deploy": "https://sg3606.github.io/bev-films/"
+    },
+    {
+        "id": 3,
+        "name": "Weather",
+        "image": "https://raw.githubusercontent.com/sg3606/MyPortfolio/main/Assets/Image/weather.png",
+        "github": "https://github.com/sg3606/WeatherDashboard",
+        "deploy": "https://sg3606.github.io/WeatherDashboard/"
+    },
+    {
+        "id": 4,
+        "name": "Schedule",
+        "image": "https://raw.githubusercontent.com/sg3606/MyPortfolio/main/Assets/Image/schedule.png",
+        "github": "https://github.com/sg3606/Scheduler",
+        "deploy": "https://sg3606.github.io/Scheduler/"
+    },
+    {
+        "id": 5,
+        "name": "Note",
+        "image": "https://raw.githubusercontent.com/sg3606/MyPortfolio/main/Assets/Image/note.png",
+        "github": "https://github.com/sg3606/note-taker",
+        "deploy": "https://morning-gorge-44836.herokuapp.com/"
+    }
+]

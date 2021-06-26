@@ -1,0 +1,97 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+nav{
+  display: flex;
+  flex: 0.75;
+  background: #0669615d;
+  padding: 11.5px;
+}
+
+li{
+  list-style-type: none;
+  display: inline-block;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 30px;
+  padding-right: 50px;
+  padding-top: 30px;
+}
+
+.wrapper {
+  padding-top: 50px;
+  justify-content: space-around;
+  height: 100%;
+  display: flex;
+  overflow: auto;
+  flex-flow: row wrap;
+  padding: 10px;
+  align-content: flex-start;
+}
+
+.card {
+  background-color: var(--white);
+  border-radius: 5px;
+  height: 400px;
+  margin: 2rem;
+  position: relative;
+  width: 400px;
+}
+
+.card:hover{
+  box-shadow: inset 0px 0px 8px #0fac97, 0 0 15px #0fac97;
+}
+
+
+.card .img-container {
+  height: 75%;
+  overflow: hidden;
+  text-align: center;
+  border-radius: 5px;
+  background-color: var(--white);
+}
+
+.card .img-container img {
+  width: 75%;
+  padding: 25px;
+  margin-bottom: 20px;
+  background-color: var(--white);
+}
+
+.card .content {
+  font-size: 18px;
+  background-color: var(--white);
+  color: var(--cadet-blue);
+  font-weight: bold;
+  text-align: center;
+}
+
+.card-title{
+  margin-top: -100px;
+  color: var(--eerie-black);
+}
+
+.Links_1 {
+  float: left;
+  width: 50%;
+}
+
+.Links:after{
+  content: '';
+  display:table;
+  clear: both
+}
+
+.footer {
+  text-align: right;
+}
