@@ -7,7 +7,7 @@ function Contact() {
             <h2>My contact</h2>
             <hr></hr>
             <div>
-                <ul class='contact'>
+                <ul className='contact'>
                     <div>
                     <li>
                         Phone: <a href="tel:8056253777">(805)-625-3777</a>

@@ -126,7 +126,7 @@ h4 {
 
 .Links:after{
   content: '';
-  display:table;
+  display: table;
   clear: both
 }
 
