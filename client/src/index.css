@@ -28,6 +28,10 @@ li{
   padding-top: 30px;
 }
 
+.navbar-nav {
+  display: right;
+}
+
 .wrapper {
   padding-top: 50px;
   justify-content: space-around;
