@@ -4,16 +4,20 @@ function Contact() {
 
     return(
         <section className="container">
-            <h2 class="top-title">Shao Ge</h2>
+            <h2 class="top-title">My contact</h2>
             <hr></hr>
             <div>
                 <ul class='contact'>
+                    <div>
                     <li>
-                        <a href="tel:8056253777">(805)-625-3777</a>
+                        Phone: <a href="tel:8056253777">(805)-625-3777</a>
                     </li>
+                    </div>
+                    <div>
                     <li>
-                        <a href="mailto:geshao3606@gmail.com">geshao3606@gmail.com</a>
+                        Email: <a href="mailto:geshao3606@gmail.com">geshao3606@gmail.com</a>
                     </li>
+                    </div>
                 </ul>     
             </div>
         </section>
