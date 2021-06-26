@@ -36,9 +36,9 @@
     },
     {
         "id": 6,
-        "name": "Progressive-Budget",
-        "image": "https://raw.githubusercontent.com/sg3606/Progressive-Budget/main/public/icons/app.png",
-        "github": "https://github.com/sg3606/Progressive-Budget",
-        "deploy": "https://whispering-mountain-40567.herokuapp.com/"
+        "name": "WorkoutTracker",
+        "image": "https://raw.githubusercontent.com/sg3606/WorkoutTracker/main/screenshots/2.png",
+        "github": "https://github.com/sg3606/WorkoutTracker",
+        "deploy": "https://sheltered-reaches-79738.herokuapp.com/?id=60bbf037fe11532d1d313594"
     }
 ]

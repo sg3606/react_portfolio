@@ -3,12 +3,12 @@ import React from 'react';
 function Resume() {
     return (
         <section className="container">
-            <h2 class="top-title">Resume</h2>
+            <h2 className="top-title">Resume</h2>
             <hr></hr>
             <div>
-                <ul class='contact'>
+                <ul className='contact'>
                     <div>
-                        Download: <a href="https://github.com/sg3606/MyPortfolio/raw/main/Assets/Resume-3.pdf" target="_blank">Resume</a>
+                        Download: <a href="https://github.com/sg3606/MyPortfolio/raw/main/Assets/Resume-3.pdf">Resume</a>
                     </div>
                 </ul>
             </div>

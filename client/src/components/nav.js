@@ -8,31 +8,31 @@ function Navigation(props) {
       <Navbar>
         <div className="navbar_0">
         <NavLink className="nav-link" to="/">
-          <div class="text-light">
-            <h4 class="nav-title-font">Shao Ge</h4>
+          <div className="text-light">
+            <h4 className="nav-title-font">Shao Ge</h4>
           </div>
         </NavLink>
         </div>
         <div className="navbar_1">
-        <ul class="navbar-nav">
-          <li class="nav-item">
+        <ul className="navbar-nav">
+          <li className="nav-item">
             <NavLink to="/about">
-              <div class="nav-font">About</div>
+              <div className="nav-font">About</div>
             </NavLink>
           </li>
-          <li class="nav-item">
+          <li className="nav-item">
             <NavLink to="/work">
-              <div class="nav-font">Work</div>
+              <div className="nav-font">Work</div>
             </NavLink>
           </li>
-          <li class="nav-item">
+          <li className="nav-item">
             <NavLink to="/contact">
-              <div class="nav-font">Contact</div>
+              <div className="nav-font">Contact</div>
             </NavLink>
           </li>
-          <li class="nav-item">
+          <li className="nav-item">
             <NavLink to="/resume">
-              <div class="nav-font">Resume</div>
+              <div className="nav-font">Resume</div>
             </NavLink>
           </li>
         </ul>

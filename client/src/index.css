@@ -13,10 +13,10 @@ code {
 }
 
 .portfolio{
-  height: 100vh;
+  /* height: 100vh; */
 }
 nav{
-  height: 15vh;
+  /* height: 15vh; */
   display: flex;
   flex: 0.75;
   background: #0669615d;
